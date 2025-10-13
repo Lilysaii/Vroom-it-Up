@@ -1,52 +1,25 @@
-# Vroom it Up!
-Hello there! Welcome to the Vroom it Up! Github Page. Here is some info you might want to know:
+<img width="5000" height="1000" alt="No More Service" src="https://github.com/user-attachments/assets/536d96f3-91b1-44d5-b978-4dedeb246704" />
+Welcome to the Vroom it Up! Github Page.
 
-# Files Available for Download
-There are 6 different types of files you can use, like:
+# About the Scratch Project
+Created on October 12, 2021 and originally created by AlextheLevelCreator (Now Lilysaii), Vroom it Up! Is a car driving game, where you control a car and drive it to a target. In 16 Levels (As of v1.4.0), you'll learn how to control the car, avoid obstacles, and make it to the end! But the question is... Can you do it?
 
-- Plain HTML: Small, easy, and you can send this to your friends!
-- Zip: Good for uploading to websites
-- Exe (Electron): Used for playing on a desktop without use of a browser
-- Exe (Installer): Installs the game onto your desktop
-- Exe (Linux): Used for Linux Desktops (64-bit x86 desktops only)
-- Sb3 (Scratch): Used to load the project on scratch
+Want a new challenge? You can also craft your own levels with the Level Crafter, and challenge your friends in a level designed by you!
 
-Note: To download the Electron, Installer and Linux versions go here: https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing
+Vroom it Up! Uses the Scratch 3 (Sb3) coding language used on the Scratch Website.
 
-# Supported Platforms
-Platforms that Support Vroom it Up! Are:
+# How to Play?
+It's simple! There are three ways you can play Vroom it Up!
+1. Visit the Scratch Website
+- You can play Vroom it Up! On the Scratch Website, with no extra work needed. <a href="https://scratch.mit.edu/projects/582576837/">Click this link</a> to head to the Website!
+2. Load the Sb3 File
+- Simply download an Sb3 file provided in the Releases, and load it into your own project on the Scratch Website, or the Scratch Player.
+3. Download and play on other Scratch players (Legacy)
+- Download any of the files above, and load it into a custom player! Native players that run directly on your desktop are also available <a href="https://scratch.mit.edu/projects/582576837/](https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing">here.</a>
+- Mac Devices do not run any Native Players provided above, so I recommend the other two methods for Mac Users.
+- Currently, this method will get you Version 1.2.7. Try the other two methods instead if you want the latest version!
 
-- Windows 32-bit
-- Windows 64-bit
-- Linux
-- Mac (No Exe)
+# Turbowarp & Forkphorus Support
+Vroom it Up! Runs perfectly fine on Turbowarp, and I recommended this method for slow devices. <a href="turbowarp.org/582576837?size=640x360&stuck&interpolate">Click this link</a> to head there, and you'll be provided with a Wider viewing screen. However, I don't recommend using Turbowarp if you plan to use the Level Crafter.
 
-# How to Install
-This is currently only for Exe and Sb3 files (Excluding linux).
-
-Exe (Electron):
-
-- Step 1: Extract the Zip File
-- Step 2: Open the file
-- Step 3: Start the .exe file
-
-Exe (Installer):
-
-- Step 1: Start the Installer
-- Step 2: Follow the instructions on the installer
-- Step 3: Install the application
-- Step 4: Search for the application (Or look for the Shortcut on your desktop)
-- Step 5: Start the application
-
-Sb3 (Scratch):
-
-- Step 1: Go to the scratch website: https://scratch.mit.edu
-- Step 2: Click "Create"
-- Step 3: Click "File"
-- Step 4: Click "Load from your computer"
-- Step 5: Select the file and click ok
-
-# Update Log
-Update Logs for Pre-1.2.7 have been moved to the Pre-1.2.7 Update Logs File.
-
-Fun Fact: Vroom It Up used to be called "Car Go Vroom Vroom" during release development.
+Vroom it Up! Will not run on Forkphorus, and actually breaks when you click the Green Flag. Sorry!
