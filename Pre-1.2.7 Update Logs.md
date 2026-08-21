@@ -1,6 +1,4 @@
-# Update Logs
-
-These Update Logs are for Updates Before 1.2.7
+This file contains all Update Logs for Updates 1.2.6 and below.
 
 # Pre-1.2.7
 
@@ -108,29 +106,17 @@ V1.1.1
 
 V1.1
 
-- Level 10 is Here!
+- Levels 9 & 10 are Here!
 - Background Music Added
-- Bug fixes for Loading screen
+- Added Loading Screen
 - New Truck Sprite
+- Redesigned Car Sprite
+- Redesigned Graphics/Sprites
 - Redesigned Buttons
 - New Settings Menu!
+- Lots of Bug Fixes
 
 # Pre-1.1
-
-V1.0.9
-
-- Even more bug fixes
-- Redesigned Car sprite
-
-V1.0.8
-
-- Redesigned Graphics/Sprites
-- Level 9 is Here!
-
-V1.0.7
-
-- Some bug fixes
-- Loading Screen Added
 
 V1.0.6
 
