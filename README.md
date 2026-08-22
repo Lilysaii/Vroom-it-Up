@@ -1,25 +1,47 @@
-<img width="5000" height="1000" alt="No More Service" src="https://github.com/user-attachments/assets/536d96f3-91b1-44d5-b978-4dedeb246704" />
-Welcome to the Vroom it Up! Github Page.
+<img width="5000" height="1000" alt="Vroom it Up! Main Banner" src="https://github.com/user-attachments/assets/7164ee5e-7a80-4e03-ae91-9a2a686f1bf3" />
 
-# About the Scratch Project
-Created on October 12, 2021 and originally created by AlextheLevelCreator (Now Lilysaii), Vroom it Up! Is a car driving game, where you control a car and drive it to a target. In 16 Levels (As of v1.4.0), you'll learn how to control the car, avoid obstacles, and make it to the end! But the question is... Can you do it?
+<div align="center"><h2>Welcome to the Vroom it Up! Github Page.</h2></div>
 
-Want a new challenge? You can also craft your own levels with the Level Crafter, and challenge your friends in a level designed by you!
+<img width="5000" height="500" alt="About the Project" src="https://github.com/user-attachments/assets/f3e0931e-a5d2-425d-a32d-f2cf88e47564" />
 
-Vroom it Up! Uses the Scratch 3 (Sb3) coding language used on the Scratch Website.
+Created on October 12, 2021 by AlextheLevelCreator (Now Lilysaii), Vroom it Up! Is a car driving game, where you control a car and drive it to a target. Simple enough, right? In 16 Levels (As of v1.4.0), you'll learn how to control the car, avoid obstacles, and make it to the end! But the question is... Can you do it?
 
-# How to Play?
+Played through all the levels, but want something fresh and new? You can also craft your own levels with the Level Crafter, and challenge your friends in a level designed by you!
+
+Vroom it Up! Uses the Scratch 3 (Sb3) coding language used on the Scratch Website, and utilizes the "Sprite Folder" addon in Scratch Addons. Scratch Addons is not required to play Vroom it Up!
+
+#
+<img width="5000" height="500" alt="How to Play?" src="https://github.com/user-attachments/assets/4040489e-5a9f-4685-be4f-6e34afca6d96" />
+
 It's simple! There are three ways you can play Vroom it Up!
 1. Visit the Scratch Website
-- You can play Vroom it Up! On the Scratch Website, with no extra work needed. <a href="https://scratch.mit.edu/projects/582576837/">Click this link</a> to head to the Website!
+- You can play Vroom it Up! On the Scratch Website, with no extra work needed. <a href="https://scratch.mit.edu/projects/582576837/">Click this link</a> to head to the Scratch Website and play right away!
 2. Load the Sb3 File
 - Simply download an Sb3 file provided in the Releases, and load it into your own project on the Scratch Website, or the Scratch Player.
-3. Download and play on other Scratch players (Legacy)
+3. Play on other Scratch players (Legacy)
 - Download any of the files above, and load it into a custom player! Native players that run directly on your desktop are also available <a href="https://scratch.mit.edu/projects/582576837/](https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing">here.</a>
 - Mac Devices do not run any Native Players provided above, so I recommend the other two methods for Mac Users.
-- Currently, this method will get you Version 1.2.7. Try the other two methods instead if you want the latest version!
+- Versions may be inconsistent between different files. Check below for a guide:
+  - HTML - v1.4.6 (Latest)
+  - Packaged Zip - v1.4.6 (Latest)
+  - Electron Installer - v1.2.7
+  - Electron (Windows 32bit) - v1.2.7
+  - Electron (Linux 64bit) - v1.2.7
+  - Electron (Windows 64bit & ARM) - Coming Soon!
+  - WKWebView (Mac) - Coming Soon!
 
-# Turbowarp & Forkphorus Support
+#
+<img width="5000" height="500" alt="Turbowarp & Forkphorus Support" src="https://github.com/user-attachments/assets/ebbb59ca-52ef-4c74-b9f7-5975db07429b" />
+
 Vroom it Up! Runs perfectly fine on Turbowarp, and I recommended this method for slow devices. <a href="turbowarp.org/582576837?size=640x360&stuck&interpolate">Click this link</a> to head there, and you'll be provided with a Wider Viewing Screen, Optimizations compared to Scratch, and faster load times when using the Level Crafter.
 
-Vroom it Up! Will not run on Forkphorus, and actually breaks when you click the Green Flag. Sorry!
+Vroom it Up! Will not run on Forkphorus, and some code actually breaks when you click the Green Flag. Use the Turbowarp link above instead, as it runs fine there.
+
+#
+<img width="5000" height="500" alt="Have a Problem?" src="https://github.com/user-attachments/assets/4d2917c4-7599-47ec-afdd-8e5f3fedb837" />
+
+If you have a problem with the project, you have a few options:
+1. Open an Issue on Vroom it Up!'s Github Page
+- This option is for bugs only! Any other issues open not relating to bugs will be closed.
+2. Message me in Scratch
+- You can ask me questions on my Profile Page (AlextheLevelCreator), or on Vroom it Up!'s Scratch Page.
