@@ -20,6 +20,6 @@ It's simple! There are three ways you can play Vroom it Up!
 - Currently, this method will get you Version 1.2.7. Try the other two methods instead if you want the latest version!
 
 # Turbowarp & Forkphorus Support
-Vroom it Up! Runs perfectly fine on Turbowarp, and I recommended this method for slow devices. <a href="turbowarp.org/582576837?size=640x360&stuck&interpolate">Click this link</a> to head there, and you'll be provided with a Wider viewing screen. However, I don't recommend using Turbowarp if you plan to use the Level Crafter.
+Vroom it Up! Runs perfectly fine on Turbowarp, and I recommended this method for slow devices. <a href="turbowarp.org/582576837?size=640x360&stuck&interpolate">Click this link</a> to head there, and you'll be provided with a Wider Viewing Screen, Optimizations compared to Scratch, and faster load times when using the Level Crafter.
 
 Vroom it Up! Will not run on Forkphorus, and actually breaks when you click the Green Flag. Sorry!
