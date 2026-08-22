@@ -19,8 +19,7 @@ It's simple! There are three ways you can play Vroom it Up!
 2. Load the Sb3 File
 - Simply download an Sb3 file provided in the Releases, and load it into your own project on the Scratch Website, or the Scratch Player.
 3. Play outside of the Scratch Website/Player
-- Download any of the files above, and load it into a custom player! Native players that run directly on your desktop are also available <a href="https://scratch.mit.edu/projects/582576837/](https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing">here.</a>
-- Mac Devices do not run any Native Players provided above, so I recommend the other two methods for Mac Users.
+- <a href="https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing">Click this link</a> to download files/native players that can be used outside of Scratch.
 - Versions may be inconsistent between different files. Check below for a guide:
   - HTML - v1.4.6 (Latest)
   - Packaged Zip - v1.4.6 (Latest)
