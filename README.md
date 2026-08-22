@@ -18,7 +18,7 @@ It's simple! There are three ways you can play Vroom it Up!
 - You can play Vroom it Up! On the Scratch Website, with no extra work needed. <a href="https://scratch.mit.edu/projects/582576837/">Click this link</a> to head to the Scratch Website and play right away!
 2. Load the Sb3 File
 - Simply download an Sb3 file provided in the Releases, and load it into your own project on the Scratch Website, or the Scratch Player.
-3. Play on other Scratch players (Legacy)
+3. Play outside of the Scratch Website/Player
 - Download any of the files above, and load it into a custom player! Native players that run directly on your desktop are also available <a href="https://scratch.mit.edu/projects/582576837/](https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing">here.</a>
 - Mac Devices do not run any Native Players provided above, so I recommend the other two methods for Mac Users.
 - Versions may be inconsistent between different files. Check below for a guide:
