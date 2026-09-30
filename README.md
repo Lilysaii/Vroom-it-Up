@@ -1,4 +1,4 @@
-<img width="5000" height="1000" alt="Vroom it Up! Main Banner" src="https://github.com/user-attachments/assets/7164ee5e-7a80-4e03-ae91-9a2a686f1bf3" />
+<img width="5000" height="1000" alt="New VIU Banner" src="https://github.com/user-attachments/assets/1e03d7fa-9ed2-44ca-91f3-2f6b116b59a4" />
 
 <div align="center"><h2>Welcome to the Vroom it Up! Github Page.</h2></div>
 
@@ -21,13 +21,14 @@ It's simple! There are three ways you can play Vroom it Up!
 3. Play outside of the Scratch Website/Player
 - <a href="https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing">Click this link</a> to download files/native players that can be used outside of Scratch.
 - Versions may be inconsistent between different files. Check below for a guide:
-  - HTML - v1.4.6 (Latest)
-  - Packaged Zip - v1.4.6 (Latest)
+  - HTML - v1.4.6
+  - Packaged Zip - v1.4.6
   - Electron Installer - v1.2.7
   - Electron (Windows 32bit) - v1.2.7
   - Electron (Linux 64bit) - v1.2.7
   - Electron (Windows 64bit & ARM) - Coming Soon!
   - WKWebView (Mac) - Coming Soon!
+- It is recommended to use the HTML or Packaged Zip formats!
 
 #
 <img width="5000" height="500" alt="Turbowarp & Forkphorus Support" src="https://github.com/user-attachments/assets/ebbb59ca-52ef-4c74-b9f7-5975db07429b" />
